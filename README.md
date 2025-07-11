@@ -20,6 +20,46 @@ An extension for MIT App Inventor 2.
 # <kbd>🧩 WLED</kbd>
 Developed by TechHamara using Fast.Extension to control WLED LED strips via HTTP<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
+## Blocks
+
+<img width="249" height="85" alt="SyncResponse_Event" src="https://github.com/user-attachments/assets/8acf2f6c-cd4a-4999-9345-914bdee8e75e" />
+<img width="216" height="85" alt="SyncError_Event" src="https://github.com/user-attachments/assets/0ac3b8eb-5e69-4577-b6a7-445fea53d609" />
+<img width="216" height="85" alt="Response_Event" src="https://github.com/user-attachments/assets/0452c8e1-c134-4013-9b90-8843440c179b" />
+<img width="213" height="60" alt="Rebooted_Event" src="https://github.com/user-attachments/assets/2eda2f27-4183-43be-a029-ca9a3e1175e9" />
+<img width="235" height="85" alt="InfoReceived_Event" src="https://github.com/user-attachments/assets/6b71e22c-fc14-41a3-ad49-2911c0d479a1" />
+<img width="183" height="85" alt="Error_Event" src="https://github.com/user-attachments/assets/724ebae6-1059-4c15-b049-c0155da902ef" />
+<img width="266" height="85" alt="ConnectionStatus_Event" src="https://github.com/user-attachments/assets/7c4f2693-1ecd-42b5-b3a8-db7afbc8b6e2" />
+
+-----
+
+<img width="241" height="30" alt="ClearSegments_Method" src="https://github.com/user-attachments/assets/db48df2b-c807-4d83-a68b-ca0b00bba363" />
+<img width="244" height="30" alt="UsermodeGPIO_Method" src="https://github.com/user-attachments/assets/de40ff13-4475-4d41-b8be-2df9f38800c9" />
+<img width="211" height="80" alt="Transition_Method" src="https://github.com/user-attachments/assets/34f48b99-3749-42b6-b53f-14f56ee80a8f" />
+<img width="184" height="30" alt="Toggle_Method" src="https://github.com/user-attachments/assets/adf49ab7-8812-445b-a4d1-398133b35cde" />
+<img width="171" height="30" alt="Time_Method" src="https://github.com/user-attachments/assets/a45917eb-7044-478e-b0a6-ce6469ac462b" />
+<img width="173" height="30" alt="State_Method" src="https://github.com/user-attachments/assets/863ac168-0c13-4102-826d-931813c70fc1" />
+<img width="242" height="130" alt="SegmentColor_Method" src="https://github.com/user-attachments/assets/7cb19272-6889-440e-8aaf-dc093754e829" />
+<img width="225" height="305" alt="Segment2D_Method" src="https://github.com/user-attachments/assets/995452f3-56a1-41ef-974c-81d96fb78bea" />
+<img width="206" height="205" alt="Segment_Method" src="https://github.com/user-attachments/assets/c01d6bca-0ee6-4b7e-9c1e-b5bac72c359e" />
+<img width="224" height="80" alt="SavePreset_Method" src="https://github.com/user-attachments/assets/1c7fa8fe-5696-483f-aff5-7b74c872ba67" />
+<img width="187" height="30" alt="Reboot_Method" src="https://github.com/user-attachments/assets/2dc1e177-026e-4596-a5b7-8f19811f77cb" />
+<img width="218" height="30" alt="Preferences_Method" src="https://github.com/user-attachments/assets/d708c81c-69d9-4a2b-af25-ea207a4b93a9" />
+<img width="226" height="180" alt="PanelWiring_Method" src="https://github.com/user-attachments/assets/b6d59829-a7d8-4dbf-ac17-71488ac1954e" />
+<img width="229" height="130" alt="PanelLayout_Method" src="https://github.com/user-attachments/assets/492172bc-473c-4fae-b75a-cd313801b5a9" />
+<img width="216" height="80" alt="MatrixSize_Method" src="https://github.com/user-attachments/assets/bd370441-d49f-408b-9b6e-04cd921692cd" />
+<img width="312" height="55" alt="LoadSegmentFromString_Method" src="https://github.com/user-attachments/assets/097f8127-9e1d-4080-bd67-81d8a8624ff3" />
+<img width="245" height="105" alt="IndividualLEDs_Method" src="https://github.com/user-attachments/assets/e579fd66-e267-457a-bb00-9871cb705e67" />
+<img width="187" height="30" alt="GetInfo_Method" src="https://github.com/user-attachments/assets/98694265-0a1f-40c9-8e11-6b32727e1ba0" />
+<img width="257" height="80" alt="EnableAutoSync_Method" src="https://github.com/user-attachments/assets/2a7f576f-8d65-42f8-a4a0-3ed3a418ef33" />
+<img width="230" height="105" alt="DefaultColor_Method" src="https://github.com/user-attachments/assets/9bb1ccf8-0e8d-45f0-85d6-0f2e3ff0f4f2" />
+<img width="247" height="155" alt="ColorAndEffect_Method" src="https://github.com/user-attachments/assets/7aa57ed0-db9a-4075-aca3-874cd1976b00" />
+<img width="183" height="105" alt="Color_Method" src="https://github.com/user-attachments/assets/c84bd73b-6dd0-4d2c-b46f-555d2efe46cd" />
+
+-----
+
+
+
+
 ## <kbd>Events:</kbd>
 **WLED** has total 7 events.
 
