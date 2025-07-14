@@ -6,59 +6,19 @@ An extension for MIT App Inventor 2.
 ## 📝 Specifications
 * **
 📦 **Package:** io.th.wled
-💾 **Size:** 56.38 KB
+💾 **Size:** 72.06 KB
 ⚙️ **Version:** 1.0
 📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-07-11 timezone="Asia/Calcutta"]
+📅 **Updated On:** [date=2025-07-14 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 * **
 
 ### 🤝 Multi-Components
 1. [WLED](#kbd-wledkbd-3)
-2. [WheelColorPicker](#kbd-wheelcolorpickerkbd-61)
+2. [WheelColorPicker](#kbd-wheelcolorpickerkbd-59)
 
 # <kbd>🧩 WLED</kbd>
-Developed by TechHamara using Fast.Extension to control WLED LED strips via HTTP<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
-
-## Blocks
-
-<img width="249" height="85" alt="SyncResponse_Event" src="https://github.com/user-attachments/assets/8acf2f6c-cd4a-4999-9345-914bdee8e75e" />
-<img width="216" height="85" alt="SyncError_Event" src="https://github.com/user-attachments/assets/0ac3b8eb-5e69-4577-b6a7-445fea53d609" />
-<img width="216" height="85" alt="Response_Event" src="https://github.com/user-attachments/assets/0452c8e1-c134-4013-9b90-8843440c179b" />
-<img width="213" height="60" alt="Rebooted_Event" src="https://github.com/user-attachments/assets/2eda2f27-4183-43be-a029-ca9a3e1175e9" />
-<img width="235" height="85" alt="InfoReceived_Event" src="https://github.com/user-attachments/assets/6b71e22c-fc14-41a3-ad49-2911c0d479a1" />
-<img width="183" height="85" alt="Error_Event" src="https://github.com/user-attachments/assets/724ebae6-1059-4c15-b049-c0155da902ef" />
-<img width="266" height="85" alt="ConnectionStatus_Event" src="https://github.com/user-attachments/assets/7c4f2693-1ecd-42b5-b3a8-db7afbc8b6e2" />
-
------
-
-<img width="241" height="30" alt="ClearSegments_Method" src="https://github.com/user-attachments/assets/db48df2b-c807-4d83-a68b-ca0b00bba363" />
-<img width="244" height="30" alt="UsermodeGPIO_Method" src="https://github.com/user-attachments/assets/de40ff13-4475-4d41-b8be-2df9f38800c9" />
-<img width="211" height="80" alt="Transition_Method" src="https://github.com/user-attachments/assets/34f48b99-3749-42b6-b53f-14f56ee80a8f" />
-<img width="184" height="30" alt="Toggle_Method" src="https://github.com/user-attachments/assets/adf49ab7-8812-445b-a4d1-398133b35cde" />
-<img width="171" height="30" alt="Time_Method" src="https://github.com/user-attachments/assets/a45917eb-7044-478e-b0a6-ce6469ac462b" />
-<img width="173" height="30" alt="State_Method" src="https://github.com/user-attachments/assets/863ac168-0c13-4102-826d-931813c70fc1" />
-<img width="242" height="130" alt="SegmentColor_Method" src="https://github.com/user-attachments/assets/7cb19272-6889-440e-8aaf-dc093754e829" />
-<img width="225" height="305" alt="Segment2D_Method" src="https://github.com/user-attachments/assets/995452f3-56a1-41ef-974c-81d96fb78bea" />
-<img width="206" height="205" alt="Segment_Method" src="https://github.com/user-attachments/assets/c01d6bca-0ee6-4b7e-9c1e-b5bac72c359e" />
-<img width="224" height="80" alt="SavePreset_Method" src="https://github.com/user-attachments/assets/1c7fa8fe-5696-483f-aff5-7b74c872ba67" />
-<img width="187" height="30" alt="Reboot_Method" src="https://github.com/user-attachments/assets/2dc1e177-026e-4596-a5b7-8f19811f77cb" />
-<img width="218" height="30" alt="Preferences_Method" src="https://github.com/user-attachments/assets/d708c81c-69d9-4a2b-af25-ea207a4b93a9" />
-<img width="226" height="180" alt="PanelWiring_Method" src="https://github.com/user-attachments/assets/b6d59829-a7d8-4dbf-ac17-71488ac1954e" />
-<img width="229" height="130" alt="PanelLayout_Method" src="https://github.com/user-attachments/assets/492172bc-473c-4fae-b75a-cd313801b5a9" />
-<img width="216" height="80" alt="MatrixSize_Method" src="https://github.com/user-attachments/assets/bd370441-d49f-408b-9b6e-04cd921692cd" />
-<img width="312" height="55" alt="LoadSegmentFromString_Method" src="https://github.com/user-attachments/assets/097f8127-9e1d-4080-bd67-81d8a8624ff3" />
-<img width="245" height="105" alt="IndividualLEDs_Method" src="https://github.com/user-attachments/assets/e579fd66-e267-457a-bb00-9871cb705e67" />
-<img width="187" height="30" alt="GetInfo_Method" src="https://github.com/user-attachments/assets/98694265-0a1f-40c9-8e11-6b32727e1ba0" />
-<img width="257" height="80" alt="EnableAutoSync_Method" src="https://github.com/user-attachments/assets/2a7f576f-8d65-42f8-a4a0-3ed3a418ef33" />
-<img width="230" height="105" alt="DefaultColor_Method" src="https://github.com/user-attachments/assets/9bb1ccf8-0e8d-45f0-85d6-0f2e3ff0f4f2" />
-<img width="247" height="155" alt="ColorAndEffect_Method" src="https://github.com/user-attachments/assets/7aa57ed0-db9a-4075-aca3-874cd1976b00" />
-<img width="183" height="105" alt="Color_Method" src="https://github.com/user-attachments/assets/c84bd73b-6dd0-4d2c-b46f-555d2efe46cd" />
-
------
-
-
-
+This extension is developed by TechHamara using Fast.Extension to control WLED LED strips via HTTP API (https://github.com/Aircoookie/WLED/wiki/API) and WebSocket API (https://github.com/Aircoookie/WLED/wiki/WebSocket-API). It allows for seamless integration and control of WLED devices within the App Inventor environment, enabling users to create custom applications that interact with WLED LED strips.<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
 ## <kbd>Events:</kbd>
 **WLED** has total 7 events.
@@ -92,7 +52,7 @@ Triggered when sync fails.
 | error | text
 
 ### InfoReceived
-Triggered when WLED info JSON is received.
+Triggered when WLED info JSON is received. Example: InfoReceived(info) receives WLED info JSON.
 
 | Parameter | Type
 | - | - |
@@ -110,7 +70,7 @@ Triggered when connection test to WLED device completes.
 | message | text
 
 ## <kbd>Methods:</kbd>
-**WLED** has total 22 methods.
+**WLED** has total 21 methods.
 
 ### Color
 Set color. Provide R, G, B values (0-255).
@@ -136,7 +96,7 @@ Quickly set color + effect + brightness
 | bri | number
 
 ### SavePreset
-Save current state to a preset.
+Save current state to a preset. Example: SavePreset(1, 'MyPreset') saves current state to preset 1 with name 'MyPreset'.
 
 | Parameter | Type
 | - | - |
@@ -144,10 +104,10 @@ Save current state to a preset.
 | name | text
 
 ### ClearSegments
-Clear all segments.
+Clear all segments. Example: ClearSegments() clears all segments.
 
 ### Segment
-Set a segment with effect and color.
+Set a segment with effect and color. Example: Segment(1, 0, 100, 1, 100, 100, [255, 0, 0]) sets segment 1 with effect 1, speed 100, intensity 100, and color [255, 0, 0].
 
 | Parameter | Type
 | - | - |
@@ -160,22 +120,15 @@ Set a segment with effect and color.
 | rgb | list
 
 ### Transition
-Send transition effect with fade and segment JSON.
+Send transition effect with fade and segment JSON. Example: Transition(1000, '[{"id":1,"start":0,"stop":100,"col":[255,0,0]}]') sends a transition effect with fade of 1000ms and segment JSON.
 
 | Parameter | Type
 | - | - |
 | fadeMillis | number
 | jsonSegmentArray | text
 
-### LoadSegmentFromString
-Load segment config from JSON string.
-
-| Parameter | Type
-| - | - |
-| jsonString | text
-
 ### EnableAutoSync
-Enable auto state sync.
+Enable auto state sync. Example: EnableAutoSync(true, 5000) enables auto state sync with interval of 5000ms.
 
 | Parameter | Type
 | - | - |
@@ -189,7 +142,7 @@ Toggle WLED power state.
 Fetch WLED info JSON. Fires OnInfoReceived event.
 
 ### SegmentColor
-Set color for a specific segment.
+Set color for a specific segment. Example: SegmentColor(1, 255, 0, 0) sets segment 1 to red.
 
 | Parameter | Type
 | - | - |
@@ -199,10 +152,10 @@ Set color for a specific segment.
 | b | number
 
 ### Reboot
-Reboot the WLED device. Fires OnRebooted event.
+Reboot the WLED device. Fires OnRebooted event. Example: Reboot() reboots the WLED device.
 
 ### DefaultColor
-Set default color for WLED.
+Set default color for WLED. Example: DefaultColor(255, 0, 0) sets the default color to red.
 
 | Parameter | Type
 | - | - |
@@ -217,66 +170,51 @@ Fetch current WLED preferences (state JSON).
 Get WLED device time.
 
 ### UsermodeGPIO
-Get usermode GPIO configuration.
-
-### MatrixSize
-Set the matrix (panel) size for 2D effects. Requires ledmap.json to be present on the WLED device.
+Set usermode GPIO pin and mode. Example: UsermodeGPIO(1, 1) sets GPIO pin 1 to mode 1.
 
 | Parameter | Type
 | - | - |
-| width | number
-| height | number
+| pin | number
+| mode | number
 
-### Segment2D
-Set a 2D segment (rectangle) on the matrix/panel. Supports 2D options.
-
-| Parameter | Type
-| - | - |
-| id | number
-| start | number
-| stop | number
-| startY | number
-| stopY | number
-| fx | number
-| pal | number
-| rev | boolean
-| rY | boolean
-| tp | boolean
-| rgb | list
-
-### PanelLayout
-Set the number of horizontal and vertical panels for a tiled matrix setup. Uploads ledmap.json.
+### Playlist
+Set the active playlist by ID. Example: SetPlaylist(1) activates playlist 1.
 
 | Parameter | Type
 | - | - |
-| horizontalPanels | number
-| verticalPanels | number
-| panelWidth | number
-| panelHeight | number
+| playlistId | number
 
-### PanelWiring
-Set panel wiring options: first LED position, orientation, serpentine, transpose. Uploads ledmap.json.
+### I2CPins
+Set I2C SDA and SCL pins (requires WLED usermod that supports this API). Example: I2CPins(21, 22) sets SDA to GPIO 21 and SCL to GPIO 22.
 
 | Parameter | Type
 | - | - |
-| width | number
-| height | number
-| firstLedPos | text
-| orientation | text
-| serpentine | boolean
-| transpose | boolean
+| sdaPin | number
+| sclPin | number
 
-### IndividualLEDs
-Set the color of individual LEDs in a segment. Colors as hex strings (e.g. 'FF0000').
+### GetEffectsList
+Returns a list of WLED effects with their IDs and names.
+
+* Return type: `list`
+
+### ShowWLED
+Loads the WLED web interface inside a given arrangement using WebView (WLED must be running on the same network as the device and the IP address must be correct and running, otherwise the setup will not work).
 
 | Parameter | Type
 | - | - |
-| segmentId | number
-| ledIndices | list
-| colors | list
+| arrangement | component
+| wledIp | text
+
+### ShowLivePreview
+Show fast live WLED preview inside a given arrangement using optimized WebView (WLED must be running on the same network as the device and the IP address must be correct and running, otherwise the preview will not work).
+
+| Parameter | Type
+| - | - |
+| arrangement | component
+| wledIp | text
 
 ## <kbd>Setters:</kbd>
-**WLED** has total 19 setter properties.
+**WLED** has total 18 setter properties.
 
 ### IP
 Set the WLED IP address.
@@ -297,6 +235,8 @@ Set brightness 0-255.
 Set effect ID.
 
 * Input type: `number`
+* Helper type: `EffectType`
+* Helper enums: `Solid`, `Blink`, `Breathe`, `Wipe`, `WipeRandom`, `RandomColors`, `Sweep`, `Dynamic`, `Colorloop`, `Rainbow`, `Scan`, `DualScan`, `Fade`, `Chase`, `ChaseRainbow`, `Running`, `Saw`, `Twinkle`, `Dissolve`, `DissolveRnd`, `Sparkle`, `SparkleDark`, `SparklePlus`, `Strobe`, `StrobeRainbow`, `MultiStrobe`, `BlinkRainbow`, `ChaseWhite`, `ChaseColor`, `ChaseRandom`, `ChaseFlash`, `ChaseFlashRnd`, `RainbowRunner`, `Colorful`, `TrafficLight`, `SweepRandom`, `Running2`, `RedAndBlue`, `Stream`, `Scanner`, `Lighthouse`, `Fireworks`, `Rain`, `Meteors`, `FireFlicker`, `Paparazzi`, `FireworksStarburst`, `Fireworks1D`, `Colorful1D`, `FillNoise`, `NoisePal`, `SineWave`, `Plasma`, `Ripple`, `Heartbeat`, `Pacifica`, `Ctwinkle`, `SolidPattern`, `TwinkleUp`, `TwinkleFade`, `ScannerDual`, `Flow`, `RandomTwinkles`, `Sunset`, `Police`, `Fire2012`, `CandyCane`, `Blends`, `PoliceAll`, `TwoAreas`, `HalloweenEyes`, `SolidGlitch`, `TriChase`, `ICU`, `Lighthouse2`, `Stream2`, `Matrix`, `RippleRainbow`, `StreamMulti`, `WipeCenter`, `SparklePulse`, `Twinkle2`, `TwinkleCustom`, `ChaseGlow`, `TwinkleFadeFast`
 
 ### Speed
 Set effect speed (0-255).
@@ -309,24 +249,19 @@ Set effect intensity (0-255).
 * Input type: `number`
 
 ### Palette
-Set palette ID.
+Set palette ID. Example: Palette(1) sets the palette ID to 1.
 
 * Input type: `number`
 
 ### ApplyPreset
-Apply a preset.
+Apply a preset. Example: ApplyPreset(1) applies preset 1.
 
 * Input type: `number`
 
 ### DeletePreset
-Delete a preset by ID.
+Delete a preset by ID. Example: DeletePreset(1) deletes preset 1.
 
 * Input type: `number`
-
-### LoadSegmentFromFile
-Load segment config from file.
-
-* Input type: `text`
 
 ### SingleColor
 Set a single color using an integer (0xRRGGBB or 0xAARRGGBB). Alpha is ignored.
@@ -344,7 +279,7 @@ Get or set auto sync state.
 * Input type: `boolean`
 
 ### SyncInterval
-Get or set sync interval in milliseconds.
+Get or set sync interval in milliseconds (default 5000).
 
 * Input type: `number`
 
@@ -354,7 +289,7 @@ Set white channel value (0-255).
 * Input type: `number`
 
 ### DefaultBrightness
-Set default brightness for WLED.
+Set default brightness for WLED. Example: DefaultBrightness(100) sets the default brightness to 100.
 
 * Input type: `number`
 
@@ -364,14 +299,14 @@ Set WLED device time (ISO 8601 string).
 * Input type: `text`
 
 ### TriggerMacro
-Trigger a WLED macro by ID.
+Trigger a WLED macro by ID. Example: TriggerMacro(1) triggers macro 1.
 
 * Input type: `number`
 
-### UploadLedMap
-Upload a ledmap.json file to the WLED device for custom 2D mapping.
+### NumLEDs
+Set the total number of LEDs for the main segment (segment 0). Example: NumLEDs(150) sets the total number of LEDs to 150.
 
-* Input type: `text`
+* Input type: `number`
 
 ## <kbd>Getters:</kbd>
 **WLED** has total 5 getter properties.
@@ -382,7 +317,7 @@ Get or set auto sync state.
 * Return type: `boolean`
 
 ### SyncInterval
-Get or set sync interval in milliseconds.
+Get or set sync interval in milliseconds (default 5000).
 
 * Return type: `number`
 
