@@ -20,6 +20,67 @@ An extension for MIT App Inventor 2.
 # <kbd>🧩 WLED</kbd>
 This extension is developed by TechHamara using Fast.Extension to control WLED LED strips via HTTP API (https://github.com/Aircoookie/WLED/wiki/API) and WebSocket API (https://github.com/Aircoookie/WLED/wiki/WebSocket-API). It allows for seamless integration and control of WLED devices within the App Inventor environment, enabling users to create custom applications that interact with WLED LED strips.<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
+## Blocks
+
+<img width="216" height="85" alt="SyncError_Event" src="https://github.com/user-attachments/assets/844e0087-6324-4cd3-bccf-bb8497a0da34" />
+<img width="216" height="85" alt="Response_Event" src="https://github.com/user-attachments/assets/130a18e7-9e28-4d3c-b917-d0f3e11ba88a" />
+<img width="213" height="60" alt="Rebooted_Event" src="https://github.com/user-attachments/assets/a6063cd7-1b33-497a-a696-e0bcb94e8ab3" />
+<img width="235" height="85" alt="InfoReceived_Event" src="https://github.com/user-attachments/assets/47f52515-9690-4e05-ba48-0afdebec0405" />
+<img width="183" height="85" alt="Error_Event" src="https://github.com/user-attachments/assets/173f7d87-2ace-4c09-9682-b8f667710e95" />
+<img width="266" height="85" alt="ConnectionStatus_Event" src="https://github.com/user-attachments/assets/ed8ed960-b17e-4229-b824-e5a3e785ad69" />
+<img width="249" height="85" alt="SyncResponse_Event" src="https://github.com/user-attachments/assets/ef5dd95f-9b4a-4328-aceb-6e72bf05706b" />
+
+-----
+
+<img width="183" height="105" alt="Color_Method" src="https://github.com/user-attachments/assets/1d2ba28a-7b39-4cec-8e6f-5842b9066814" />
+<img width="241" height="30" alt="ClearSegments_Method" src="https://github.com/user-attachments/assets/70af7ce5-eaf9-4d4d-86bb-fe2232bb2d9b" />
+<img width="252" height="80" alt="UsermodeGPIO_Method" src="https://github.com/user-attachments/assets/daa7a0f3-de53-4d48-9d7d-bb64824c12ff" />
+<img width="211" height="80" alt="Transition_Method" src="https://github.com/user-attachments/assets/54aa4d25-914e-4b1c-908c-e2a94c60ec24" />
+<img width="184" height="30" alt="Toggle_Method" src="https://github.com/user-attachments/assets/e5b2878a-279c-4007-993d-e96beecebaa3" />
+<img width="171" height="30" alt="Time_Method" src="https://github.com/user-attachments/assets/39c84d3e-fba1-4a72-a830-b22759f60533" />
+<img width="173" height="30" alt="State_Method" src="https://github.com/user-attachments/assets/f6db0b1f-e14a-4076-87c7-41f367af01ae" />
+<img width="226" height="80" alt="ShowWLED_Method" src="https://github.com/user-attachments/assets/5229eae8-b435-4dd3-af52-fb231fabfe05" />
+<img width="264" height="80" alt="ShowLivePreview_Method" src="https://github.com/user-attachments/assets/d19d5264-4e16-43ac-af5d-7dce1ea173c8" />
+<img width="242" height="130" alt="SegmentColor_Method" src="https://github.com/user-attachments/assets/5cdf9d97-da1a-4521-b900-ef3215431cf6" />
+<img width="206" height="205" alt="Segment_Method" src="https://github.com/user-attachments/assets/50f3e4d3-de24-4cb1-a69a-3f1f53ff0a26" />
+<img width="224" height="80" alt="SavePreset_Method" src="https://github.com/user-attachments/assets/cdb1c3a0-0e9f-4bd6-b4b6-96def5de5d66" />
+<img width="187" height="30" alt="Reboot_Method" src="https://github.com/user-attachments/assets/f3877aaa-06c5-4c30-b407-d30ce47488c1" />
+<img width="218" height="30" alt="Preferences_Method" src="https://github.com/user-attachments/assets/6c4e42e3-82e0-4097-98db-ae8879cfc9c9" />
+<img width="194" height="55" alt="Playlist_Method" src="https://github.com/user-attachments/assets/add84740-e967-42cb-9c6d-de98fb087561" />
+<img width="198" height="80" alt="I2CPins_Method" src="https://github.com/user-attachments/assets/d2833e1d-0599-42aa-a0ad-d3e426162221" />
+<img width="187" height="30" alt="GetInfo_Method" src="https://github.com/user-attachments/assets/477faf15-d5d2-4f3c-8d50-08f4a2f00121" />
+<img width="239" height="26" alt="GetEffectsList_Method" src="https://github.com/user-attachments/assets/e78095eb-4e1b-4008-9c1d-c2c4fed6f933" />
+<img width="257" height="80" alt="EnableAutoSync_Method" src="https://github.com/user-attachments/assets/de268f55-b0da-4f8d-86e7-9f5ae0ff013a" />
+<img width="230" height="105" alt="DefaultColor_Method" src="https://github.com/user-attachments/assets/f943443e-334e-4d97-b589-4fc6059ed304" />
+<img width="247" height="155" alt="ColorAndEffect_Method" src="https://github.com/user-attachments/assets/0f66a2f6-c781-4ae3-847e-545c8806f508" />
+
+-----
+
+<img width="212" height="26" alt="SyncInterval_Get_Property" src="https://github.com/user-attachments/assets/b3f17d88-b11e-44b7-a009-985362a533ca" />
+<img width="233" height="30" alt="Speed_Set_Property" src="https://github.com/user-attachments/assets/2cb5432c-ba85-4d66-8d99-6c96e931407b" />
+<img width="268" height="30" alt="SingleColor_Set_Property" src="https://github.com/user-attachments/assets/693527e8-63ef-4849-87da-de6f6fdd5322" />
+<img width="233" height="30" alt="Power_Set_Property" src="https://github.com/user-attachments/assets/1ca1c618-cdcb-4677-8f35-01fabf12125e" />
+<img width="237" height="30" alt="Palette_Set_Property" src="https://github.com/user-attachments/assets/62af5e1f-8ea7-4b6b-9cbc-5b702fbd382a" />
+<img width="258" height="30" alt="NumLEDs_Set_Property" src="https://github.com/user-attachments/assets/e8f4d1e7-d7bc-4a12-b115-bbabd5baa941" />
+<img width="213" height="26" alt="IsConnected_Get_Property" src="https://github.com/user-attachments/assets/42c46c6b-625f-4c9b-9068-9dfa98348c90" />
+<img width="204" height="30" alt="IP_Set_Property" src="https://github.com/user-attachments/assets/ae9ec187-6e43-436d-81f5-01dee51b5b17" />
+<img width="246" height="30" alt="Intensity_Set_Property" src="https://github.com/user-attachments/assets/b76ec154-965e-4a02-ace3-2623f49a2528" />
+<img width="378" height="30" alt="Effect_Set_Property" src="https://github.com/user-attachments/assets/702e96f7-2f73-4bd4-8daa-2bd0c7abd546" />
+<img width="277" height="30" alt="DeletePreset_Set_Property" src="https://github.com/user-attachments/assets/26fa0df3-1f57-4403-b25f-0a82fe8c36cc" />
+<img width="308" height="30" alt="DefaultBrightness_Set_Property" src="https://github.com/user-attachments/assets/23296c0f-63b5-4e62-bd1d-43ef37141529" />
+<img width="195" height="26" alt="CurrentIP_Get_Property" src="https://github.com/user-attachments/assets/26d62a5e-bda7-4461-8446-281b33a86b63" />
+<img width="267" height="26" alt="ConnectionMessage_Get_Property" src="https://github.com/user-attachments/assets/7dfc4627-1723-4f1a-b43a-7319806138dd" />
+<img width="261" height="30" alt="Brightness_Set_Property" src="https://github.com/user-attachments/assets/02a7962a-e641-4cbf-bcba-f273b3de5be5" />
+<img width="256" height="30" alt="AutoSync_Set_Property" src="https://github.com/user-attachments/assets/cb85d9f8-a83f-4d80-a714-5c6446fb021c" />
+<img width="196" height="26" alt="AutoSync_Get_Property" src="https://github.com/user-attachments/assets/ee29a885-186f-4097-b945-1e6bd05358ae" />
+<img width="270" height="30" alt="ARGBColor_Set_Property" src="https://github.com/user-attachments/assets/01d5bc4b-0b07-4a25-b0e3-cdc8384c161f" />
+<img width="272" height="30" alt="ApplyPreset_Set_Property" src="https://github.com/user-attachments/assets/bf5ab179-0b07-4a1b-8b87-2d798d51d1c4" />
+<img width="229" height="30" alt="White_Set_Property" src="https://github.com/user-attachments/assets/7403588a-e9b3-4dae-83ee-1e98132d28b5" />
+<img width="279" height="30" alt="TriggerMacro_Set_Property" src="https://github.com/user-attachments/assets/271ec08d-ed5e-4294-9b1b-7acb8e497354" />
+<img width="224" height="30" alt="Time_Set_Property" src="https://github.com/user-attachments/assets/d105e8c0-83f7-47ff-ae88-0861a2968c00" />
+<img width="272" height="30" alt="SyncInterval_Set_Property" src="https://github.com/user-attachments/assets/21f29652-a709-4e16-878d-cbc6b40a09b4" />
+
+
 ## <kbd>Events:</kbd>
 **WLED** has total 7 events.
 
