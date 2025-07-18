@@ -12,6 +12,8 @@ An extension for MIT App Inventor 2.
 📅 **Updated On:** [date=2025-07-14 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 * **
+<br>
+⬇️ Download aix file on [BuyMeCoffee](https://buymeacoffee.com/techhamara/e/434511) Page.
 
 ### 🤝 Multi-Components
 1. [WLED](#kbd-wledkbd-3)
