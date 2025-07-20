@@ -22,6 +22,22 @@ An extension for MIT App Inventor 2.
 # <kbd>🧩 WLED</kbd>
 This extension is developed by TechHamara using Fast.Extension to control WLED LED strips via HTTP API (https://github.com/Aircoookie/WLED/wiki/API) and WebSocket API (https://github.com/Aircoookie/WLED/wiki/WebSocket-API). It allows for seamless integration and control of WLED devices within the App Inventor environment, enabling users to create custom applications that interact with WLED LED strips.<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
+## Demo 
+
+![IMG_20250720_120416.jpg](https://github.com/user-attachments/assets/40c0e6eb-db7c-4eeb-ab5f-59731faf2052)
+
+
+![Screenshot_2025-07-15-19-47-08-899_appinventor.ai_Techhamara91.wled.jpg](https://github.com/user-attachments/assets/67e9d382-6bfc-4c4a-bffa-b4c45a929f34)
+
+![Screenshot_2025-07-15-19-48-33-186_appinventor.ai_Techhamara91.wled.jpg](https://github.com/user-attachments/assets/f073cf52-5d46-4469-8b6c-675e1e72a2b8)
+
+![Screenshot_2025-07-15-19-47-35-082_appinventor.ai_Techhamara91.wled.jpg](https://github.com/user-attachments/assets/d9c1f46f-67e0-4290-86bd-d959f251e5f1)
+
+![Screenshot_2025-07-15-19-49-33-830_appinventor.ai_Techhamara91.wled.jpg](https://github.com/user-attachments/assets/17f57f1b-a2d1-4e81-8ae6-50db4563b13d)
+
+![Screenshot_2025-07-15-19-49-45-589_appinventor.ai_Techhamara91.wled.jpg](https://github.com/user-attachments/assets/a61cc006-2a45-4b3c-b0f3-70cafdda0da6)
+
+
 ## Blocks
 
 <img width="216" height="85" alt="SyncError_Event" src="https://github.com/user-attachments/assets/844e0087-6324-4cd3-bccf-bb8497a0da34" />
