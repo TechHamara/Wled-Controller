@@ -21,7 +21,7 @@ An extension for MIT App Inventor 2.
 
   > New Update - 21-10-2025
   > **Summary** - Scans for WLED devices on the local network using mDNS.
-4. [WledIPScanner](#kbd-wledipscannerkbd-114)
+3. [WledIPScanner](#kbd-wledipscannerkbd-114)
 
 
 # <kbd>🧩 WLED</kbd>
