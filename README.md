@@ -29,6 +29,12 @@ This extension is developed by TechHamara using Fast.Extension to control WLED L
 
 ## Demo 
 
+> In V2 Update
+> ![Wled-scan-v2.gif](https://github.com/user-attachments/assets/4b6e7f64-1468-4a31-acd9-a88c0af6fc8a)
+
+![wled-V2.jpg](https://github.com/user-attachments/assets/9960590c-2341-4250-82fc-a44be7f693fe)
+
+
 ![IMG_20250720_120416.jpg](https://github.com/user-attachments/assets/40c0e6eb-db7c-4eeb-ab5f-59731faf2052)
 
 
