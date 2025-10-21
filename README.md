@@ -6,8 +6,8 @@ An extension for MIT App Inventor 2.
 ## 📝 Specifications
 * **
 📦 **Package:** io.th.wled<br>
-💾 **Size:** 72.06 KB<br>
-⚙️ **Version:** 1.0<br>
+💾 **Size:** 77.7 KB<br>
+⚙️ **Version:** 2.0<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-07-14 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
@@ -18,6 +18,11 @@ An extension for MIT App Inventor 2.
 ### 🤝 Multi-Components
 1. [WLED](#kbd-wledkbd-3)
 2. [WheelColorPicker](#kbd-wheelcolorpickerkbd-59)
+
+  > New Update - 21-10-2025
+  > **Summary** - Scans for WLED devices on the local network using mDNS.
+4. [WledIPScanner](#kbd-wledipscannerkbd-114)
+
 
 # <kbd>🧩 WLED</kbd>
 This extension is developed by TechHamara using Fast.Extension to control WLED LED strips via HTTP API (https://github.com/Aircoookie/WLED/wiki/API) and WebSocket API (https://github.com/Aircoookie/WLED/wiki/WebSocket-API). It allows for seamless integration and control of WLED devices within the App Inventor environment, enabling users to create custom applications that interact with WLED LED strips.<a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://buymeacoffee.com/techhamara/extras/' target='_blank'>BuyMeaCoffee</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
@@ -752,6 +757,60 @@ Get or set whether to show color edit
 Get or set whether to show color preview
 
 * Return type: `boolean`
+
+  # <kbd>🧩 WledIPScanner</kbd>
+Developed by TechHamara. Scans for WLED devices on the local network using mDNS.
+
+## Blocks
+
+<img width="263" height="85" alt="OnError_Event" src="https://github.com/user-attachments/assets/c284dacc-0c1a-46a6-bbcf-d696936e7d1f" />
+<img width="316" height="85" alt="OnDeviceFound_Event" src="https://github.com/user-attachments/assets/246ed81a-d7a6-455a-9fe8-7b45453c0492" />
+<img width="290" height="60" alt="ScanStoped_Event" src="https://github.com/user-attachments/assets/84b649c8-8453-4a35-9410-3f363cd9f188" />
+<img width="334" height="60" alt="OnScanCompleted_Event" src="https://github.com/user-attachments/assets/70454e98-175c-487c-b78d-e8b80b260346" />
+
+-----
+
+<img width="263" height="30" alt="StopScan_Method" src="https://github.com/user-attachments/assets/72999bf7-b3db-4fa8-8d76-e89aa22657f9" />
+<img width="263" height="30" alt="StartScan_Method" src="https://github.com/user-attachments/assets/7677b8c3-8028-4f38-bdf8-9470f4036eac" />
+
+-----
+
+
+## <kbd>Events:</kbd>
+**WledIPScanner** has total 4 events.
+
+### OnDeviceFound
+Fires when a WLED device is found. Returns IP and device name.
+
+| Parameter | Type
+| - | - |
+| ipAddress | text
+| name | text
+
+### OnScanCompleted
+Fires when the scan is completed (e.g., when StopScan is called).
+
+### ScanStoped
+Fires when the scan is Stoped (e.g., when StopScan is called).
+
+### OnError
+Fires when a discovery error occurs.
+
+| Parameter | Type
+| - | - |
+| message | text
+
+## <kbd>Methods:</kbd>
+**WledIPScanner** has total 2 methods.
+
+### StartScan
+Start scanning for WLED devices in local network (e.g., via mobile hotspot)
+
+### StopScan
+Stop current scan manually
+
+### Thanks
+  Techhamara
 
 ### PickerCount
 Get or set the number of color pickers (1-5)
